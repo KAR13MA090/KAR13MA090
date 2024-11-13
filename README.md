@@ -50,7 +50,6 @@
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=52wKEsyyo49O&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=5503&format=png&color=000000"/>
-
 ## Activities:
 
 <table style="width:100%;">
@@ -66,7 +65,7 @@
     </td>
   </tr>
 </table>
-
+  <img src="![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAR13MA090&theme=algolia)"
   
   
   
