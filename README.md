@@ -68,6 +68,21 @@
 </table>
   
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAR13MA090&theme=algolia)
+
+# Certificates:
+
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
+- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange)
+- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) 
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) 
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) 
+- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) 
+- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) 
+- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) 
   
   
   
