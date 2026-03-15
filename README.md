@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a student of: [Vietnamese-American College Hanoi](https://caodangvietmy.edu.vn) (VM).
+- ✍ I'm a student of:
 
 - 🌱 I’m currently learning **MERN Stack.**
 
