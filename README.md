@@ -1,13 +1,8 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm </h1>
+<h1 align="center">Hi 👋, I'm TUAN TU </h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
-
-
-- ✍ I'm a student of:
-
-- 🌱 I’m currently learning **MERN Stack.**
 
 <br />
 
@@ -69,20 +64,6 @@
   
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAR13MA090&theme=algolia)
 
-# Certificates:
 
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-
-- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Currently Obtaining a Certificate!
-- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Currently Obtaining a Certificate!
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Currently Obtaining a Certificate!
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green)  Currently Obtaining a Certificate!
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green)  Currently Obtaining a Certificate!
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Currently Obtaining a Certificate!
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green)  Currently Obtaining a Certificate!
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue)  Currently Obtaining a Certificate!
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue)  Currently Obtaining a Certificate!
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Currently Obtaining a Certificate!
-  
   
 
